@@ -48,6 +48,7 @@ I'm an indie full-stack developer building my version of the digital world one s
 
 <a target="_blank" href="https://www.linkedin.com/in/abhishek-singh-3719941ab/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> &nbsp;
 <a target="_blank" href="https://twitter.com/SinghAbhi1205"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> &nbsp;
+
 <br>
 </p> 
 
