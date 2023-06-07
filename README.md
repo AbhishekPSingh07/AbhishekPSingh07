@@ -35,6 +35,11 @@ I'm an indie full-stack developer building my version of the digital world one s
 
 [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekPSingh07&bg_color=172030&title_color=00FFFF&show_icons=true&hide_border=true&text_color=fff&icon_color=E0FFFF)](https://github.com/anuraghazra/github-readme-stats)
 
+![Abhishekk's Language Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPSingh07&layout=compact&theme=tokyonight)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbhishekPSingh07&theme=dark)](https://git.io/streak-stats)
+
 ---
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbhishekPSingh07&bg_color=000000&color=00fdff&line=00fdff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
